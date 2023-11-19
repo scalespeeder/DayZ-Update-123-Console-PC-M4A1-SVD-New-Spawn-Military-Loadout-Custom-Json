@@ -64,7 +64,7 @@ This file tells your server to access your custom spawn gear file(s).
 
 Edit it to look like this: 
 
-	"spawnGearPresetFiles": ["custom/akm_loadout.json","custom/svd_loadout.json"],
+	"spawnGearPresetFiles": ["custom/m4a1_loadout.json","custom/svd_loadout.json"],
 	
 	OR
 	
