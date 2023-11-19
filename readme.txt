@@ -1,6 +1,6 @@
 DayZ MILITARY Fresh Spawn Loadout Files For Console and PC Community Servers Instructions & Terms Of Use
 
-When installed correctly these files will spawn fresh players with a M4A1 or a Draganov (SVD) Military Loadout, with gear and randomised uniform. (DMR is loosely NATO, AKM is loosely Russian).
+When installed correctly these files will spawn fresh players with a M4A1 or a Draganov (SVD) Military Loadout, with gear and randomised uniform. (M4A1 is loosely NATO, SVD is loosely Russian).
 
 Limited Testing on PC Chernarus Local Experimental Server DAYZ Version 1.23 Nov 23.
 
